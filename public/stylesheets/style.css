@@ -7,7 +7,12 @@ a {
   color: #00b7ff;
 }
 
-.Nav {
-  display: flex;
+.nav {
   justify-content: space-around;
+  margin-left: 500px;
+  font-size: larger;
+  background-blend-mode: color-burn;
+  background-color: rgb(152, 240, 152);
+  font-style: none;
+  text-decoration: none;
 }
